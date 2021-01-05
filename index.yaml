@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  pmt-multikb:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-01-05T11:24:49.118642897Z"
+    description: A Helm chart for Kubernetes
+    digest: e7988e1583e51139a63be0ebb3c84480447492aae24ca1ab5d6b2eeec37ea7de
+    name: pmt-multikb
+    type: application
+    urls:
+    - pmt-multikb-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-01-05T11:24:49.117487429Z"
